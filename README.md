@@ -18,7 +18,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=itsiiie&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/itsiiie?label=Followers&style=for-the-badge&color=blue&labelColor=1a1a1a" alt="followers" />
-  <img src="https://img.shields.io/github/stars/itsiiie?label=Stars&style=for-the-badge&color=yellow&labelColor=1a1a1a" alt="stars" />
+  <img src="https://img.shields.io/github/stars/itsiiie?label=Total%20Stars&style=for-the-badge&color=yellow&labelColor=1a1a1a" alt="stars" />
 </p>
 
 </div>
@@ -28,7 +28,7 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## 🧑‍💻 About Me
 
 ```typescript
 const shashank = {
@@ -63,67 +63,70 @@ const shashank = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 ### ☁️ **Cloud & Infrastructure**
 
 <p>
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="55" height="55" alt="Terraform" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="55" height="55" alt="Ansible" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="55" height="55" alt="Nginx" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55" height="55" alt="Linux" />
+<img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes" />
+<img src="https://skillicons.dev/icons?i=terraform" height="50" alt="Terraform" />
+<img src="https://skillicons.dev/icons?i=ansible" height="50" alt="Ansible" />
+<img src="https://skillicons.dev/icons?i=nginx" height="50" alt="Nginx" />
+<img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
 </p>
 
 ### 🔄 **CI/CD & Automation**
 
 <p>
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="55" height="55" alt="Jenkins" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="55" height="55" alt="GitLab" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55" alt="Git" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="55" height="55" alt="Bash" />
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="Jenkins" />
+<img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="GitLab" />
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+<img src="https://skillicons.dev/icons?i=bash" height="50" alt="Bash" />
 </p>
 
 ### 💻 **Development Stack**
 
 <p>
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="NodeJS" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="55" height="55" alt="Flask" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="55" height="55" alt="Express" />
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+<img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=express" height="50" alt="Express" />
+<img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask" />
+<img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />
 </p>
 
 ### 🗄️ **Databases & Tools**
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="55" height="55" alt="Redis" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55" alt="VSCode" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="55" height="55" alt="Postman" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis" />
+<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
 </p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-<!-- Project Cards with Hover Effect -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25" /> AWS Monitoring Dashboard
+### 📊 AWS Monitoring Dashboard
 
 <a href="https://github.com/itsiiie/aws-monitoring">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsiiie&repo=aws-monitoring&theme=react&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=false" />
@@ -149,7 +152,7 @@ tech: [Python, AWS SDK, Streamlit, Boto3]
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="25" /> Secure File Sharing
+### 🔐 Secure File Sharing
 
 <a href="https://github.com/itsiiie/secure-file-sharing-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsiiie&repo=secure-file-sharing-backend&theme=react&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=false" />
@@ -178,7 +181,7 @@ tech: [Node.js, Express, MongoDB, JWT]
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/ID%20Button.png" width="25" /> Gate Pass System
+### 🛂 Gate Pass System
 
 <a href="https://github.com/itsiiie/Gate-Pass-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsiiie&repo=Gate-Pass-System&theme=react&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=false" />
@@ -204,7 +207,7 @@ tech: [Python, Tkinter, SQLite, QR]
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="25" /> LatencyLens
+### ⚡ LatencyLens
 
 <a href="https://github.com/itsiiie/LatencyLens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsiiie&repo=LatencyLens&theme=react&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=false" />
@@ -233,7 +236,7 @@ tech: [Python, Flask, Chart.js, WebSockets]
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="25" /> DevOps Assessment
+### 📦 DevOps Assessment
 
 <a href="https://github.com/itsiiie/devops-assessment">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsiiie&repo=devops-assessment&theme=react&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=false" />
@@ -259,7 +262,7 @@ tech: [Docker, GitHub Actions, AWS, Nginx]
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" width="25" /> Cloud Backup System
+### 💾 Cloud Backup System
 
 <a href="https://github.com/itsiiie/personal-cloud-backup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsiiie&repo=personal-cloud-backup&theme=react&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=false" />
@@ -294,7 +297,7 @@ tech: [Python, AWS S3, Bash, Cron]
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -311,7 +314,7 @@ tech: [Python, AWS S3, Bash, Cron]
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="32" /> Certifications & Achievements
+## 🏆 Certifications & Achievements
 
 <div align="center">
 
@@ -323,12 +326,12 @@ tech: [Python, AWS S3, Bash, Cron]
     <sub>Coursera • 2024</sub>
   </td>
   <td align="center" width="33%">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="100" /><br>
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100" /><br>
     <b>Open Source Contributor</b><br>
     <sub>GitHub • 2023-Present</sub>
   </td>
   <td align="center" width="33%">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="100" /><br>
+    <img src="https://cdn-icons-png.flaticon.com/512/3976/3976625.png" width="100" /><br>
     <b>B.Tech CSE (Final Year)</b><br>
     <sub>2021-2025</sub>
   </td>
@@ -339,12 +342,53 @@ tech: [Python, AWS S3, Bash, Cron]
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="32" /> Current Focus
+## 🎯 Current Focus
 
+<div align="center">
+
+```mermaid
+mindmap
+  root((Shashank))
+    Learning
+      Kubernetes CKA
+      Terraform Modules
+      AWS Solutions Architect
+      GitOps with ArgoCD
+    Building
+      Portfolio Website
+      DevOps Scripts Library
+      Cloud Cost Optimizer
+      CI/CD Templates
+    Exploring
+      Service Mesh Istio
+      Observability Stack
+      Infrastructure as Code
+      Platform Engineering
+    Goals
+      Full-time DevOps Role
+      AWS Certifications
+      Open Source Projects
+      Tech Community Building
+```
+
+</div>
+
+<details>
+<summary><b>📚 Learning Roadmap 2025</b></summary>
+<br>
+
+| Quarter | Focus Area | Goals |
+|:---:|:---|:---|
+| **Q1** | Kubernetes Deep Dive | CKA Certification, Service Mesh |
+| **Q2** | AWS Advanced | Solutions Architect Associate |
+| **Q3** | Infrastructure as Code | Terraform, Pulumi, CDK |
+| **Q4** | Platform Engineering | Internal Developer Platforms |
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" /> Let's Connect & Collaborate!
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -357,8 +401,11 @@ tech: [Python, AWS S3, Bash, Cron]
 <a href="https://github.com/itsiiie/portfolio">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:shashanksingh.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://twitter.com/itsiiie">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 
 <br><br>
@@ -376,11 +423,18 @@ tech: [Python, AWS S3, Bash, Cron]
 
 <div align="center">
 
+### 💭 DevOps Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 **✨ "Automate the Boring. Deploy the Brilliant. Scale the Impossible." ✨**
 
-*Crafted with* 💙 *and* ⚡ *by Shashank Singh*
+<br>
+
+[![Made with ❤️ by Shashank Singh](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Shashank%20Singh-red?style=for-the-badge)](https://github.com/itsiiie)
 
 </div>
