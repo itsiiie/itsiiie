@@ -338,39 +338,8 @@ tech: [Python, AWS S3, Bash, Cron]
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Shashank))
-    Learning
-      Kubernetes CKA
-      Terraform Modules
-      AWS Solutions Architect
-      GitOps with ArgoCD
-    Building
-      Portfolio Website
-      DevOps Scripts Library
-      Cloud Cost Optimizer
-      CI/CD Templates
-    Exploring
-      Service Mesh Istio
-      Observability Stack
-      Infrastructure as Code
-      Platform Engineering
-    Goals
-      Full-time DevOps Role
-      AWS Certifications
-      Open Source Projects
-      Tech Community Building
-```
-
-</div>
-
 <details>
-<summary><b>📚 Learning Roadmap 2025</b></summary>
+<summary><b>📚 Learning Roadmap 2026</b></summary>
 <br>
 
 | Quarter | Focus Area | Goals |
