@@ -70,48 +70,44 @@ const shashank = {
 ### ☁️ **Cloud & Infrastructure**
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
-<img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
-<img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes" />
-<img src="https://skillicons.dev/icons?i=terraform" height="50" alt="Terraform" />
-<img src="https://skillicons.dev/icons?i=ansible" height="50" alt="Ansible" />
-<img src="https://skillicons.dev/icons?i=nginx" height="50" alt="Nginx" />
-<img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="55" height="55" alt="Terraform" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="55" height="55" alt="Ansible" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="55" height="55" alt="Nginx" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55" height="55" alt="Linux" />
 </p>
 
 ### 🔄 **CI/CD & Automation**
 
 <p>
-<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-<img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="GitHub Actions" />
-<img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="Jenkins" />
-<img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="GitLab" />
-<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-<img src="https://skillicons.dev/icons?i=bash" height="50" alt="Bash" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="55" height="55" alt="Jenkins" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="55" height="55" alt="GitLab" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55" alt="Git" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="55" height="55" alt="Bash" />
 </p>
 
 ### 💻 **Development Stack**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-<img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript" />
-<img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
-<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
-<img src="https://skillicons.dev/icons?i=express" height="50" alt="Express" />
-<img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask" />
-<img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="NodeJS" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="55" height="55" alt="Flask" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="55" height="55" alt="Express" />
 </p>
 
 ### 🗄️ **Databases & Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
-<img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis" />
-<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
-<img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="55" height="55" alt="Redis" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55" alt="VSCode" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="55" height="55" alt="Postman" />
 </p>
 
 </div>
