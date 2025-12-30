@@ -341,47 +341,6 @@ tech: [Python, AWS S3, Bash, Cron]
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="32" /> Current Focus
 
-<div align="center">
-
-```mermaid
-mindmap
-  root((Shashank))
-    Learning
-      Kubernetes CKA
-      Terraform Modules
-      AWS Solutions Architect
-      GitOps with ArgoCD
-    Building
-      Portfolio Website
-      DevOps Scripts Library
-      Cloud Cost Optimizer
-      CI/CD Templates
-    Exploring
-      Service Mesh (Istio)
-      Observability Stack
-      Infrastructure as Code
-      Platform Engineering
-    Goals
-      Full-time DevOps Role
-      AWS Certifications
-      Open Source Projects
-      Tech Community Building
-```
-
-</div>
-
-<details>
-<summary><b>📚 Learning Roadmap 2025</b></summary>
-<br>
-
-| Quarter | Focus Area | Goals |
-|:---:|:---|:---|
-| **Q1** | Kubernetes Deep Dive | CKA Certification, Service Mesh |
-| **Q2** | AWS Advanced | Solutions Architect Associate |
-| **Q3** | Infrastructure as Code | Terraform, Pulumi, CDK |
-| **Q4** | Platform Engineering | Internal Developer Platforms |
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -417,19 +376,6 @@ mindmap
 
 <div align="center">
 
-### 💭 DevOps Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsiiie/itsiiie/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsiiie/itsiiie/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsiiie/itsiiie/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
