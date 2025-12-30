@@ -1,101 +1,254 @@
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=black&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Shashank+Singh;DevOps+%26+Cloud+Engineer+🚀;Automating+Deployments+%7C+Scaling+Apps+%7C+Exploring+AI)](https://git.io/typing-svg)
+# 👋 Hey, I'm Shashank Singh
 
----
+### DevOps Engineer | Cloud Enthusiast | Open Source Contributor
 
-## 🧑‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Automating+Infrastructure+%F0%9F%9A%80;Building+Scalable+Cloud+Solutions+%E2%98%81%EF%B8%8F;CI%2FCD+Pipeline+Architect+%F0%9F%94%A7;Container+Orchestration+Expert+%F0%9F%90%B3" alt="Typing SVG" />
 
-🎓 **B.Tech CSE Student** passionate about **DevOps**, **Cloud**, and **Automation**  
-💡 I love solving complex deployment challenges and building scalable full-stack systems.  
-⚙️ Always curious about improving **CI/CD pipelines**, **container orchestration**, and **cloud cost monitoring**.  
-🚀 Currently exploring **Kubernetes**, **Terraform**, and **advanced AWS automation**.  
-
-> “Automate the boring stuff, deploy the creative stuff.”
+</div>
 
 ---
 
-## 🧠 Tech Arsenal
+## 🎯 About Me
 
-### ☁️ **DevOps & Cloud**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+```yaml
+name: Shashank Singh
+role: Final Year B.Tech CSE Student
+location: India
+status: Open for DevOps & Cloud Engineering Opportunities
+currently_learning: 
+  - Kubernetes & Service Mesh
+  - Terraform IaC Patterns
+  - Advanced AWS Solutions Architecture
+passion: "Turning manual chaos into automated elegance"
+motto: "Deploy fast, break nothing, automate everything"
+```
 
-### 💻 **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+🔭 Building cloud-native applications and infrastructure automation tools  
+🌱 Contributing to open source DevOps projects  
+💼 Actively seeking **DevOps Engineer / Cloud Engineer** roles  
+📜 **AWS Cloud Practitioner** Certified (Coursera)  
+⚡ Love optimizing CI/CD pipelines and reducing deployment times
 
-### 🛠️ **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🔄 CI/CD & Automation
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 💻 Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🗄️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧰 [DevOps Assessment Project](https://github.com/itsiiie/devops-assessment)
-> **Dockerized Full-Stack App** (Node.js + Flask) with **GitHub Actions CI/CD** and **AWS EC2 deployment**.
+<div align="center">
 
-### ☁️ [AWS Free Tier Usage Monitor](https://github.com/itsiiie/aws-usage-monitor)
-> **Python + Streamlit Dashboard** for **AWS Free Tier usage tracking** and cost optimization.
+<table>
+<tr>
+<td width="50%">
 
-### 🛂 [Gate Pass System](https://github.com/itsliie/Gate-Pass-System)
-> Secure entry system built using Python and Tkinter.
+### 📊 AWS Monitoring Dashboard
+[![Repo](https://img.shields.io/badge/Repo-aws--monitoring-6366F1?style=for-the-badge&logo=github)](https://github.com/itsiiie/aws-monitoring)
 
-### 🤖 [AI Chatbot](https://github.com/itsliie/ai-chatbot)
-> Simple HTML + JavaScript chatbot interface with rule-based logic.
+**Real-time AWS resource monitoring & cost optimization**
+- 📈 Tracks Free Tier usage across services
+- 💰 Cost forecasting & budget alerts
+- 🎨 Built with Python + Streamlit
+- ☁️ AWS SDK (Boto3) integration
+
+**Tech:** `Python` `AWS` `Streamlit` `Boto3`
+
+</td>
+<td width="50%">
+
+### 🔐 Secure File Sharing Backend
+[![Repo](https://img.shields.io/badge/Repo-secure--file--sharing-6366F1?style=for-the-badge&logo=github)](https://github.com/itsiiie/secure-file-sharing-backend)
+
+**End-to-end encrypted file transfer system**
+- 🔒 AES-256 encryption
+- 🚀 RESTful API with Express.js
+- 🗄️ MongoDB for metadata storage
+- 🔑 JWT authentication
+
+**Tech:** `Node.js` `Express` `MongoDB` `Crypto`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛂 Gate Pass System
+[![Repo](https://img.shields.io/badge/Repo-Gate--Pass--System-6366F1?style=for-the-badge&logo=github)](https://github.com/itsiiie/Gate-Pass-System)
+
+**Smart campus entry management system**
+- ✅ QR code-based verification
+- 📱 Python GUI with Tkinter
+- 📊 SQLite database backend
+- 🔔 Real-time notifications
+
+**Tech:** `Python` `Tkinter` `SQLite` `QR`
+
+</td>
+<td width="50%">
+
+### ⚡ LatencyLens
+[![Repo](https://img.shields.io/badge/Repo-LatencyLens-6366F1?style=for-the-badge&logo=github)](https://github.com/itsiiie/LatencyLens)
+
+**API performance monitoring tool**
+- 📡 Real-time latency tracking
+- 📊 Beautiful performance graphs
+- 🔔 Alert system for SLA breaches
+- 🌐 Multi-endpoint monitoring
+
+**Tech:** `Python` `Flask` `Chart.js` `WebSockets`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎯 DevOps Assessment
+[![Repo](https://img.shields.io/badge/Repo-devops--assessment-6366F1?style=for-the-badge&logo=github)](https://github.com/itsiiie/devops-assessment)
+
+**Containerized full-stack deployment**
+- 🐳 Docker multi-container setup
+- 🔄 GitHub Actions CI/CD
+- ☁️ AWS EC2 automated deployment
+- 🔧 Node.js + Flask architecture
+
+**Tech:** `Docker` `GitHub Actions` `AWS` `Nginx`
+
+</td>
+<td width="50%">
+
+### ☁️ Personal Cloud Backup
+[![Repo](https://img.shields.io/badge/Repo-personal--cloud--backup-6366F1?style=for-the-badge&logo=github)](https://github.com/itsiiie/personal-cloud-backup)
+
+**Automated backup solution to S3**
+- 🔄 Scheduled backups with cron
+- 📦 Compression & encryption
+- ☁️ S3 lifecycle policies
+- 📊 Backup status dashboard
+
+**Tech:** `Python` `AWS S3` `Bash` `Cron`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsiiie&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=itsiiie&show_icons=true&theme=radical&hide_border=true" height="170" />
-</p>
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsiiie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
+<img width="49%" src="https://streak-stats.demolab.com?user=itsiiie&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsiiie&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsiiie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsiiie&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" />
 
----
-
-## 🏆 DevOps Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsiiie&theme=github-dark&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/itsiiie/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/its_iiie"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/itsiiie"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+| 🎓 Certification | 🏢 Issuer | 📅 Year |
+|:---:|:---:|:---:|
+| **AWS Cloud Practitioner** | Coursera | 2024 |
+| **Open Source Contributor** | GitHub | 2023-Present |
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsiiie&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
-</p>
+## 💡 What I'm Currently Working On
+
+```python
+current_focus = {
+    "learning": ["Kubernetes CKA", "Terraform Advanced Patterns", "AWS Solutions Architect"],
+    "building": ["Personal Portfolio Site", "DevOps Automation Scripts", "Cloud Cost Optimizer"],
+    "exploring": ["Service Mesh (Istio)", "GitOps (ArgoCD)", "Infrastructure as Code"],
+    "seeking": "Full-time DevOps/Cloud Engineer roles"
+}
+```
 
 ---
 
-<p align="center">
-  💬 *"Turning scripts into systems, and ideas into automation."* ⚡
-</p>
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/itsiiie/itsiiie/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsiiie/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsiiie)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/itsiiie/portfolio)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 📊 Profile Views
+
+![](https://komarev.com/ghpvc/?username=itsiiie&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
+
+**⚡ "Infrastructure as Code, Excellence as Standard"**
+
+*Open to DevOps & Cloud Engineering opportunities | Let's automate the future together!* 🚀
+
+</div>
